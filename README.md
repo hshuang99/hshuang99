@@ -7,7 +7,7 @@
 
 🎯 Cryptology and Applied Cryptography<br>
 📫 Contact: **hogshenghuang@proton.me**  
-📝 I regularly write articles on [https://scientia-potentia-est.com](https://scientia-potentia-est.com/)<br>
-📓 And share my life on my social blog [https://scientiatw.live](https://scientiatw.live)<br><br>
+📝 I regularly write articles on [https://secologies](https://secologies.com/)<br>
+📓 And share my life on my social blog [https://hshuang.blog](https://hshuang.blog)<br><br>
   
 </div>
