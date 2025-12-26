@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Scientia-Potentia-Est-Tw&color=red)
 
 🎯 Cryptology and Applied Cryptography<br>
-📫 Contact: **hogshenghuang@proton.me**  
+📫 Contact: **hshuang@secologies.com**  
 📝 I regularly write articles on [https://secologies.com](https://secologies.com)<br>
 📓 And share my life on my social blog [https://hshuang.blog](https://hshuang.blog)<br><br>
   
