@@ -10,5 +10,6 @@
 📝 I regularly write articles on [https://secologies.com](https://secologies.com)<br>
 📓 And share my life on my social blog [https://hshuang.blog](https://hshuang.blog)<br><br>
 
-![Hong-Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=hshuang99&show_icons=true&theme=radical)
+![Hong-Sheng's Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 </div>
