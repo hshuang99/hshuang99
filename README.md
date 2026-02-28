@@ -11,3 +11,5 @@
 📓 And share my life on my social blog [https://hshuang.blog](https://hshuang.blog)<br><br>
   
 </div>
+[![Hong-Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=hshuang99)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hshuang99)](https://github.com/anuraghazra/github-readme-stats)
